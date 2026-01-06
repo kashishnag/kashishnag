@@ -1,16 +1,21 @@
-## Hi there 👋
+# Kashish Nag
+Google Ads Specialist
 
-<!--
-**kashishnag/kashishnag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I help businesses grow profitably using Google Ads.
 
-Here are some ideas to get you started:
+## Skills
+- Google Ads(Search,Shopping,Performance Max)
+- GA4 & GTM
+- Conversion Tracking
+- ROAS Optimization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Experience
+- E-commerce Ads
+- Lead Generation Campaigns
+- Merchant Centre
+- Account Suspension
+- GA-4
+
+
+## Contact
+Email: kashishnag9789@gmail.com
